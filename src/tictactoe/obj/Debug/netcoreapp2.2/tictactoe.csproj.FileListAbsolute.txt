@@ -1,0 +1,11 @@
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/bin/Debug/netcoreapp2.2/tictactoe.deps.json
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/bin/Debug/netcoreapp2.2/tictactoe.runtimeconfig.json
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/bin/Debug/netcoreapp2.2/tictactoe.runtimeconfig.dev.json
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/bin/Debug/netcoreapp2.2/tictactoe.dll
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/bin/Debug/netcoreapp2.2/tictactoe.pdb
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.csprojAssemblyReference.cache
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.csproj.CoreCompileInputs.cache
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.AssemblyInfoInputs.cache
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.AssemblyInfo.cs
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.dll
+/Users/luishinostroza/CSharpPractice/Collections/TicTacToe/src/tictactoe/obj/Debug/netcoreapp2.2/tictactoe.pdb
